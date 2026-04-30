@@ -21,3 +21,4 @@ Cycle 13: finalizacao da funcionalidade de login.
 ### feature/cadastro
 
 Cycle 21: inicio da funcionalidade de cadastro.
+Cycle 22: ajustes no formulario de cadastro.
