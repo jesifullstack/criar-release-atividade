@@ -15,3 +15,4 @@ Cycle 3: finalizacao da primeira feature.
 ### feature/login
 
 Cycle 11: inicio da funcionalidade de login.
+Cycle 12: validacao do fluxo de autenticacao.
