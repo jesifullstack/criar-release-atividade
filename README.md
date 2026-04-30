@@ -17,3 +17,9 @@ Cycle 3: finalizacao da primeira feature.
 Cycle 11: inicio da funcionalidade de login.
 Cycle 12: validacao do fluxo de autenticacao.
 Cycle 13: finalizacao da funcionalidade de login.
+
+### feature/cadastro
+
+Cycle 21: inicio da funcionalidade de cadastro.
+Cycle 22: ajustes no formulario de cadastro.
+Cycle 23: finalizacao da funcionalidade de cadastro.
