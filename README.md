@@ -10,3 +10,4 @@ Branch `dev` preparada para receber novas alterações.
 
 Cycle 1: estrutura inicial da funcionalidade.
 Cycle 2: ajustes incrementais na funcionalidade.
+Cycle 3: finalizacao da primeira feature.
